@@ -9,6 +9,8 @@ This project presents a practical and scalable approach to demand forecasting in
 
 Retailers often struggle with balancing stock availability and customer demand. Overstocking leads to increased holding costs, while understocking results in missed sales opportunities. Traditional forecasting methods fail to account for the complex and dynamic nature of real-world factors such as seasonality, promotions, and competitor pricing.
 
+The dataset used in this project is titled **“Retail Store Inventory and Demand Forecasting”**, sourced from [Kaggle](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting).
+
 ## Our Solution
 
 We built a robust forecasting pipeline that:
